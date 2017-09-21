@@ -1,4 +1,5 @@
 import pandas as pd
+#hello
 path_os_data = "C:/Dropbox/Research Project/mental account\Tickers-Bloomberg/Ticker_moderate_US/data excel/"
 path_os_result = "C:/Dropbox/Research Project/mental account/Tickers-Bloomberg/Ticker_moderate_US/result excel/"
 # read data
